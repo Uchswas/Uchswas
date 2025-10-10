@@ -14,19 +14,16 @@ With both industry and academic experience, I've built and deployed full-stack p
 
 - 🚗 **PartsCargo**
   - Led backend development of this e-commerce platform following Agile methodology, building the backend from scratch and integrating CI/CD pipelines for seamless deployment.  
-  - Worked with a large dataset of **3M+** records, reducing query time by 80% through optimization, indexing, and caching.  
+  - Worked with a large dataset of **3M+** records, reducing query time by 80% through optimization. indexing and caching.  
   - Collaborated with marketing and SEO teams to improve site accessibility and search visibility.
-      
-    [PartsCargo.com →](https://partscargo.com/)
+    - [PartsCargo.com →](https://partscargo.com/)
  
 - 🧵 **Textile Talent Hunt**  
   - Built the platform for the first Textile Talent Hunt program, designed to host large-scale online competitions for textile students and professionals.
   - Led the complete development lifecycle from scratch, including planning, requirement analysis, system design, implementation, testing, and deployment.  
-  
   - Developed using Laravel and Nuxt.js as a single-page application, handling traffic of over 10,000 users simultaneously.  
   - Implemented role-based access control, real-time exam participation, automated grading, performance analytics, and secure data backup to handle user disconnections during exams. 
-
-    [TextileTalentHunt.com →](https://textiletalenthunt.com/)
+    - [TextileTalentHunt.com →](https://textiletalenthunt.com/)
 
 ## 🚀 Acedemic Projects
 
@@ -38,9 +35,9 @@ With both industry and academic experience, I've built and deployed full-stack p
       - [Project Documentation →](https://drive.google.com/file/d/1teOf3cKXA5oNZamaEF2V-vgAzY4VqmKg/view)
  
 - 📚🧠 **LLM-Powered README Quality Analyzer for Hugging Face**
-  - Crawled ~1.05M model records, filtered the top 5% by popularity, and  defined an 8-component documentation framework for readme files
-  - Fine-tuned an LLM to detect section presence and extract content, and score README completeness and surface gaps
-  - Achieved ~95% accuracy, 99% precision, and 91% recall on held-out samples 
+    - Crawled ~1.05M model records, filtered the top 5% by popularity, and  defined an 8-component documentation framework for readme files
+    - Fine-tuned an LLM to detect section presence and extract content, and score README completeness and surface gaps
+    - Achieved ~95% accuracy, 99% precision, and 91% recall on held-out samples 
        - [Git Repository →](https://github.com/Uchswas/llm-powered-readme-analyzer)      
       - [Project Documentation →](https://drive.google.com/file/d/14OOVnlROkgkrlCzMcgFi8VDqnVu817BS/view)
 
