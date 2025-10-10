@@ -10,7 +10,7 @@ I’ve worked with LLM-based software systems, Kubernetes, software-defined netw
 
 With both industry and academic experience, I’ve built and deployed full-stack projects in production and collaborated closely with SEO and marketing teams. As a former university faculty member, I’ve also taught and mentored over 1,400 students in core computer science courses — strengthening my leadership, communication, and problem-solving skills.
 
-## 🏭 Industrial Projects
+## ⚙️ Industrial Projects
 
 - 🚗 **PartsCargo**
   - Led backend development of this e-commerce platform following Agile methodology, building the backend from scratch and integrating CI/CD pipelines for seamless deployment.  
@@ -52,16 +52,86 @@ With both industry and academic experience, I’ve built and deployed full-stack
       - [Repository for AI Driven Version →](https://github.com/Uchswas/BaghBandi_AI)
       - [Repository for Android Version →](https://github.com/Uchswas/BaghBondi-Game)
 
-- 🧑‍🎓 ⚙️ **ClassMate Bot – Intelligent Discord Assistant for classroom management**
+- 🧑‍🎓 ⚙️ **ClassMate Bot: Intelligent Discord Assistant for classroom management**
   - Contributed to an existing Discord bot to manage the classroom, shipping new features: plagiarism check, office-hour scheduling, course grade calculation, custom group settings, and resource management.
   - Containerized the app using Docker and added CI with GitHub Actions to enforce automated testing and quality gates.
     - [Git Repository →](https://github.com/csc510-team5/ClassMateBot)
 
 
-- 🎶 🎹 **HandGloves Piano – Arduino-Based Wearable Musical Instrument**
+- 🎶 🎹 **HandGloves Piano: Arduino-Based Wearable Musical Instrument**
   - Built a gesture-controlled musical instrument using Arduino, sensors, and sound frequency mapping.
   - Designed touch-based interactions where finger–thumb contact generates distinct notes (Sa, Re, Ga, Ma, Pa, Dha, Ni, Sa).
   - Implemented compact circuit design and real-time tone synthesis, replicating harmonium-like melodies in a wearable format.
     - [Git Repository →](https://github.com/Uchswas/Hand-Gloves-Piano)
 
 
+## 🎓 Research Projects 
+
+- **An Efficient and Secure Handover Mechanism for SDN-Enabled 5G HetNet**
+  - Accomplished a 42% reduction in delay during inter-domain reactive handover and  50% in communication overhead 
+  - Published at the International Black Sea Conference on Communications and Networking (BlackSeaCom)
+    - [Paper Link →](https://ieeexplore.ieee.org/document/9527825)
+
+
+- **Key Value Storage on Higher-Dimensional Data**
+  - Developed a multidimensional data storage system utilizing key-value architecture, reducing memory usage by 90%
+  -   Designed Exact-Match, Single-Key, and Range-Key queries, improving query speed by 500% compared to MySQL
+      - [Documentation →](https://drive.google.com/file/d/1l2t5I7wsPouxBx7YB2WFkNuvTbryzIcc/view?usp=sharing)
+      - [CodeBase →](  https://github.com/Uchswas/Key-Value-Storage)
+
+- **Scaling Success: A Systematic Review of Peer Grading Strategies for Accuracy, Efficiency, and Learning in Contemporary Education**
+  - Conducted a systematic review of 120+ studies (1981–2024) to evaluate peer grading methods using the PRISMA framework.
+  - Proposed a two-dimensional taxonomy to classify grading systems by evaluation type and reviewer weighting strategies.
+  - Identified trade-offs between accuracy, fairness, and learning outcomes, and suggested hybrid and LLM-assisted approaches for scalable assessment.
+    - [Paper Link →](https://ieeexplore.ieee.org/document/9527825)
+
+
+
+- **Kubernetes Configuration Bugs in Open Source Project(Completed, submitted for review)**
+  -  Mined 1,470 Kubernetes manifest-related issues using Selenium WebDriver to automate extraction from repositories
+  - Proposed the first comprehensive bug categorization for Kubernetes, organizing 15 distinct classes using a bottom-up approach, and mapped each class to 11 potential consequences and 9 common fix patterns
+  - Evaluated 8 Kubernetes static analysis tools, identifying significant gaps in detecting bugs across key bug categories 
+
+
+- **Autograder:Automatic Assessment of Peer Feedback(Ongoing)** 
+  - Developed an LLM-based microservice following the Model Context Protocol (MCP) to automatically assess students’ peer feedback.
+  - Integrated the service with an existing Learning Management System (LMS) via REST APIs for seamless feedback evaluation.
+  - Implemented infrastructure-as-code using Ansible for automated configuration management and set up a CI/CD pipeline for continuous deployment.
+
+---
+
+## 💼 Experience
+
+- **Software Engineering @ Mazegeek Bangladesh Limited**
+- **Project Lead @ Amin & Jahan Group**
+- **Lecturer @ University of Information Technology & Science**
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages**: Python, PHP, JavaScript, SQL, Java, Ruby
+- **Frameworks & Libraries**: Django, Laravel, Ruby on Rails, FastAPI, Vue.js, Nuxt.js
+- **DevOps & Infrastructure**: Nginx, Docker, Kubernetes, Ansible, Linux
+- **Tools**: Git, Selenium, ElasticSearch
+- **Design & Frontend**: HTML, CSS
+
+---
+
+## 🌟 Interests
+
+- Large language models (LLMs) and AI fine-tuning
+- Scalable system and database design
+- Full-stack applications with seamless UX
+- AI in Computer Science Education
+
+---
+
+## 📫 Connect with me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/uchswas-paul/)
+- 📧 Email: upaul@ncsu.edu
+
+---
+
+⚡ Always exploring new ways to combine engineering, data, and design to build products that make a real difference!
