@@ -27,3 +27,18 @@ With both industry and academic experience, I've built and deployed full-stack p
   - Implemented role-based access control, real-time exam participation, automated grading, performance analytics, and secure data backup to handle user disconnections during exams. 
 
     [TextileTalentHunt.com →](https://textiletalenthunt.com/)
+
+## 🚀 Acedemic Projects
+
+- 🌲🔥 **Machine Learning–Based Wildfire Detection Using NASA Satellite Data**
+    - Built an end-to-end machine learning pipeline using NASA satellite and U.S. Forest Service data to predict wildfire risk across the U.S.
+    - Engineered and cleaned 29K+ geospatial weather records, ensuring balanced data and automated retrieval through API integration.
+    - Trained and optimized models (Random Forest, Logistic Regression, MLP) with hyperparameter tuning via grid search and cross-validation, achieving AUC-ROC of 0.99.
+      - [Git Repository →](https://github.com/Uchswas/ml-based-wildfire-detection/tree/main/Data)  
+      - [Project Documentation →](https://drive.google.com/file/d/1teOf3cKXA5oNZamaEF2V-vgAzY4VqmKg/view)
+
+
+- 📚🧠 **LLM-Powered README Quality Analyzer for Hugging Face**
+  - Crawled ~1.05M model records, filtered the top 5% by popularity, and  defined an 8-component documentation framework for readme files
+  - Fine-tuned an LLM to detect section presence and extract content and score README completeness and surface gaps
+  - Achieved ~95% accuracy, 99% precision, and 91% recall on held-out samples 
