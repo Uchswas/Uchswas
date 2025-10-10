@@ -32,14 +32,14 @@ With both industry and academic experience, I’ve built and deployed full-stack
 - 🌲🔥 **Machine Learning–Based Wildfire Detection Using NASA Satellite Data**
     - Built an end-to-end machine learning pipeline using NASA satellite and U.S. Forest Service data to predict wildfire risk across the U.S.
     - Engineered and cleaned 29K+ geospatial weather records, ensuring balanced data and automated retrieval through API integration.
-    - Trained and optimized models (Random Forest, Logistic Regression, MLP) with hyperparameter tuning via grid search and cross-validation, achieving AUC-ROC of 0.99.
+    - Trained and optimized models (Random Forest, Logistic Regression, MLP) with hyperparameter tuning via grid search and cross-validation, achieving an AUC-ROC of 0.99.
       - [Git Repository →](https://github.com/Uchswas/ml-based-wildfire-detection/tree/main/Data)  
       - [Project Documentation →](https://drive.google.com/file/d/1teOf3cKXA5oNZamaEF2V-vgAzY4VqmKg/view)
 
 
 - 📚🧠 **LLM-Powered README Quality Analyzer for Hugging Face**
   - Crawled ~1.05M model records, filtered the top 5% by popularity, and  defined an 8-component documentation framework for readme files
-  - Fine-tuned an LLM to detect section presence and extract content and score README completeness and surface gaps
+  - Fine-tuned an LLM to detect section presence and extract content, and score README completeness and surface gaps
   - Achieved ~95% accuracy, 99% precision, and 91% recall on held-out samples 
        - [Git Repository →](https://github.com/Uchswas/llm-powered-readme-analyzer)      
       - [Project Documentation →](https://drive.google.com/file/d/14OOVnlROkgkrlCzMcgFi8VDqnVu817BS/view)
@@ -51,3 +51,17 @@ With both industry and academic experience, I’ve built and deployed full-stack
     - Built the game as an Android app in 2018 using a greedy approach during my undergrad that demonstrated lower performance than AI-driven methods.
       - [Repository for AI Driven Version →](https://github.com/Uchswas/BaghBandi_AI)
       - [Repository for Android Version →](https://github.com/Uchswas/BaghBondi-Game)
+
+- 🧑‍🎓 ⚙️ **ClassMate Bot – Intelligent Discord Assistant for classroom management**
+  - Contributed to an existing Discord bot to manage the classroom, shipping new features: plagiarism check, office-hour scheduling, course grade calculation, custom group settings, and resource management.
+  - Containerized the app using Docker and added CI with GitHub Actions to enforce automated testing and quality gates.
+    - [Git Repository →](https://github.com/csc510-team5/ClassMateBot)
+
+
+- 🎶 🎹 **HandGloves Piano – Arduino-Based Wearable Musical Instrument**
+  - Built a gesture-controlled musical instrument using Arduino, sensors, and sound frequency mapping.
+  - Designed touch-based interactions where finger–thumb contact generates distinct notes (Sa, Re, Ga, Ma, Pa, Dha, Ni, Sa).
+  - Implemented compact circuit design and real-time tone synthesis, replicating harmonium-like melodies in a wearable format.
+    - [Git Repository →](https://github.com/Uchswas/Hand-Gloves-Piano)
+
+
