@@ -16,6 +16,7 @@ With both industry and academic experience, I’ve built and deployed full-stack
   - Led backend development of this e-commerce platform following Agile methodology, building the backend from scratch and integrating CI/CD pipelines for seamless deployment.  
   - Worked with a large dataset of **3M+** records, reducing query time by 80% through optimization. indexing and caching.  
   - Collaborated with marketing and SEO teams to improve site accessibility and search visibility.
+  
   [PartsCargo.com →](https://partscargo.com/)
  
 - 🧵 **Textile Talent Hunt**  
@@ -23,6 +24,7 @@ With both industry and academic experience, I’ve built and deployed full-stack
   - Led the complete development lifecycle from scratch, including planning, requirement analysis, system design, implementation, testing, and deployment.  
   - Developed using Laravel and Nuxt.js as a single-page application, handling traffic of over 10,000 users simultaneously.  
   - Implemented role-based access control, real-time exam participation, automated grading, performance analytics, and secure data backup to handle user disconnections during exams. 
+  
   [TextileTalentHunt.com →](https://textiletalenthunt.com/)
 
 ## 🚀 Acedemic Projects
