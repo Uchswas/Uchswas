@@ -36,11 +36,6 @@ With both industry and academic experience, I've built and deployed full-stack p
     - Trained and optimized models (Random Forest, Logistic Regression, MLP) with hyperparameter tuning via grid search and cross-validation, achieving an AUC-ROC of 0.99.
       - [Git Repository →](https://github.com/Uchswas/ml-based-wildfire-detection/tree/main/Data)  
       - [Project Documentation →](https://drive.google.com/file/d/1teOf3cKXA5oNZamaEF2V-vgAzY4VqmKg/view)
-
-- 📚🧠 **LLM-Powered README Quality Analyzer for Hugging Face**
-  - Crawled ~1.05M model records, filtered the top 5% by popularity, and  defined an 8-component documentation framework for readme files
-  - Fine-tuned an LLM to detect section presence and extract content, and score README completeness and surface gaps
-  - Achieved ~95% accuracy, 99% precision, and 91% recall on held-out samples
  
 - 📚🧠 **LLM-Powered README Quality Analyzer for Hugging Face**
   - Crawled ~1.05M model records, filtered the top 5% by popularity, and  defined an 8-component documentation framework for readme files
