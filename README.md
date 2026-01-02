@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Uchswas Paul!
+# Hi there, I'm Uchswas Paul!
 
 The traditional separation between development, QA, and operations teams is fading. Modern software engineers are end-to-end problem solvers. I embrace that philosophy:  today’s developer isn’t just a coder, but also a tester, deployer, and customer advocate.
 
