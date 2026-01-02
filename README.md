@@ -133,5 +133,3 @@ With both industry and academic experience, I’ve built and deployed full-stack
 - 📧 Email: upaul@ncsu.edu
 
 ---
-
-⚡ Always exploring new ways to combine engineering, data, and design to build products that make a real difference!
